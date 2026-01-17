@@ -1,5 +1,5 @@
 #Projeto Loja de Doce
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 #02/11/25
 #Código atualizado, mais para frente vou atualizando!
 
@@ -121,3 +121,4 @@ if entrada == 'entrar' or  entrada == 'Entrar':
 else:
     print("Ops, você digitou algo errado!")
     #Não ligue pelo código desorganizado! rsrs
+
